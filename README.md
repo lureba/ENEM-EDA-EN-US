@@ -6,6 +6,12 @@ O exame é composto por provas que cobrem diversas áreas do conhecimento, como 
 
 ##  Descrição e Objetivos:
 Neste projeto de análise de dados, nosso foco foi a exploração detalhada dos dados do Exame Nacional do Ensino Médio (ENEM) de 2022. A proposta central deste trabalho foi realizar a limpeza, organização e subsequente análise desse vasto conjunto de dados. Utilizando o Jupyter Notebook como plataforma de trabalho, nos apoiamos em um conjunto robusto de bibliotecas de Python, incluindo Pandas, Numpy, Matplotlib, Seaborn e Geopandas, para conduzir as diversas etapas do projeto.
+
 O trabalho foi meticulosamente dividido em duas fases principais: a limpeza dos dados e a análise propriamente dita. A fase de limpeza de dados foi um desafio considerável, dada a magnitude do conjunto de dados original, que ocupava cerca de 7GB de espaço. Por meio de técnicas avançadas de processamento e otimização, conseguimos reduzir significativamente o tamanho dos dados para aproximadamente 100MB, o que facilitou enormemente as etapas subsequentes de análise. Este processo não se limitou apenas à redução de tamanho; ele envolveu também a criação e atribuição de novos valores a variáveis, a transformação de colunas, a correção de inconsistências e outros aspectos fundamentais de feature engineering. Cada ajuste realizado foi crucial para garantir que os dados estivessem limpos, organizados e prontos para análise.
+
 Na etapa de análise, nosso objetivo foi investigar questões socioeconômicas e demográficas que pudessem estar relacionadas ao desempenho dos candidatos no ENEM. Em vez de desenvolver modelos preditivos, optamos por concentrar nossos esforços na criação de visualizações de dados informativas e intuitivas. O propósito foi interpretar essas visualizações para identificar padrões e tendências que pudessem oferecer insights sobre os fatores que potencializam ou limitam o desempenho dos estudantes no exame. A análise se baseou na exploração dos dados e na interpretação dos gráficos gerados, buscando propor ideias e reflexões fundamentadas que possam contribuir para um melhor entendimento dos desafios educacionais no Brasil.
 Este projeto representa uma exploração profunda e cuidadosa de um conjunto de dados vasto e complexo, com o objetivo de lançar luz sobre as dinâmicas socioeconômicas e demográficas que influenciam o desempenho dos estudantes no ENEM
+
+# Contato:
+- Linkedin: https://www.linkedin.com/in/lrlunardi/
+- Gmail: Lr.lunardi@unesp.br
